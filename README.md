@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kurt
 - 👀 I’m interested in robotics, astronomy and renewables engineering
-- 🌱 I’m currently learning mechatronics engineering
-- 💞️ I’m looking to collaborate on the GMN RMS for my engineering FYP
+- 🌱 I’m currently studying mechatronics engineering
+- 💞️ I’m looking to collaborate on the GMN RMS for my engineering final year project
 - 📫 Reach me on Discord at `Kurb#8806`
 
 <!---
