@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <body xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                #asciiholder {
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                }
+
+                #credits {
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    text-align: center;
+                }
+
+                pre {
+                    display: inline-block;
+                    font-family: monospace;
+                    font-size: 1vw;
+                    color: white;
+                    white-space: pre;
+                    line-height: 1.2;
+                    padding: 10px;
+                    border-radius: 12px;
+                    background: linear-gradient(-50deg, #534D41, #00272B, #715AFF);
+                }
+            </style>
+            <div id="asciiholder">
+<pre>
+  ` : | | | |:  ||  :     `  :  |  |+|: | : : :|   .        `              .
+      ` : | :|  ||  |:  :    `  |  | :| : | : |:   |  .                    :
+         .' ':  ||  |:  |  '       ` || | : | |: : |   .  `           .   :.
+                `'  ||  |  ' |   *    ` : | | :| |*|  :   :               :|
+        *    *       `  |  : :  |  .      ` ' :| | :| . : :         *   :.||
+             .`            | |  |  : .:|       ` | || | : |: |          | ||
+      '          .         + `  |  :  .: .         '| | : :| :    .   |:| ||
+         .                 .    ` *|  || :       `    | | :| | :      |:| |
+ .                .          .        || |.: *          | || : :     :|||
+        .            .   . *    .   .  ` |||.  +        + '| |||  .  ||`
+     .             *              .     +:`|!             . ||||  :.||`
+ +                      .                ..!|*          . | :`||+ |||`
+     .                         +      : |||`        .| :| | | |.| ||`     .
+       *     +   '               +  :|| |`     :.+. || || | |:`|| `
+                            .      .||` .    ..|| | |: '` `| | |`  +
+  .       +++                      ||        !|!: `       :| |
+              +         .      .    | .      `|||.:      .||    .      .    `
+          '                           `|.   .  `:|||   + ||'     `
+  __    +      *                         `'       `'|.    `:
+"'  `---"""----....____,..^---`^``----.,.___          `.    `.  .    ____,.,-
+    ___,--'""`---"'   ^  ^ ^        ^       """'---,..___ __,..---""'
+--"'                                 ^                         ``--..,__
+<a id="credits" cite="https://www.asciiart.eu/space/other">Northern Lights
+- D. Rice</a></pre>
+            </div>
+        </body>
+    </foreignObject>
+</svg>
