@@ -1,6 +1,12 @@
-<div align="center">
-    <img src="img/asciiart.svg" width="100%" height="20%" alt="css-in-readme">
-</div>
+<html>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <body>
+        <div align="center" width="100%">
+            <img src="img/asciiart.svg" alt="ASCII art :)"/>
+        </div>
+    </body>
+</html>
 
 <figure>
   <blockquote cite="https://www.stroustrup.com/quotes.html">
