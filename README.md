@@ -1,12 +1,4 @@
-<html>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <body>
-        <div align="center" width="100%">
-            <img src="img/asciiart.svg" width="100%" style="width: 100%; height: auto;" alt="ASCII art :)"/>
-        </div>
-    </body>
-</html>
+![Ascii Art :)](img/asciiart.svg)
 
 <figure>
   <blockquote cite="https://www.stroustrup.com/quotes.html">
