@@ -31,15 +31,40 @@
                     padding: 10px;
                     border-radius: 12px;
                     background:
+                        /* City nights and night sky */
                         linear-gradient(
-                            25deg,
-                            #ffd400,
-                            #2e294e,
+                            7deg,
+                            #ffd400 -6%,
+                            #2e294e 27%,
                             #372549,
-                            #eadeda,
-                            #d90368,
-                            #820263
-                        );
+                            transparent
+                        ),
+
+                        /* Lower left swirlo */
+                        linear-gradient(
+                            28deg,
+                            transparent,
+                            #372549 51%,
+                            #eadeda 59%,
+                            #d90368 67%,
+                            transparent
+                        ),
+
+                        /* 2nd swirlo */
+                        linear-gradient(
+                            33deg,
+                            transparent,
+                            #372549 58%,
+                            #820263 70%,
+                            transparent
+                        )
+                    ;
+                    background-blend-mode: overlay;
+
+                    /*
+                    background-clip: text;
+                    color: transparent;
+                    */
                 }
             </style>
             <div id="asciiholder">
