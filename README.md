@@ -30,24 +30,32 @@ Outside of computery stuff, I like to:
 - 😁 Overusing emojis in readmes
 
 # 💻️ Technologies
-## 🗣️ Languages
-### 🧠 Ones I Know
-[![skillz](https://skillicons.dev/icons?i=c,cpp,py,bash,lua,arduino,markdown)][skicons]
+|            | 🧠 Ones I Know                                   | 🌱 Ones I'm Learning   |
+| ---------- | :----------------------------------------------: | :--------------------: |
+| Languages  | [![][lang-known]][skd]<br>[![][lang-know2]][skd] | [![][lang-learn]][skd] |
+| Tools      | [![][tool-known]][skd]                           | [![][tool-learn]][skd] |
+| Editors    | [![][edit-known]][skd]                           | [![][edit-learn]][skd] |
+| OSes       | [![][oses-known]][skd]                           | [![][oses-learn]][skd] |
 
-### 🌱 Ones I'm Learning
-[![skillz](https://skillicons.dev/icons?i=rust,nix)][skicons]
+<!-- Table stuff -->
+<!-- placeholders are 127.0.0.1 -->
+[lang-known]: https://skillicons.dev/icons?i=c,cpp,py,bash,lua
+[lang-know2]: https://skillicons.dev/icons?i=arduino,markdown
+[lang-learn]: https://skillicons.dev/icons?i=rust,nix
 
-## 🔨 Tools I Use
-[![skillz](https://skillicons.dev/icons?i=regex,git,godot)][skicons]
-[![skillz](https://skillicons.dev/icons?i=vim,neovim,vscode)][skicons]
-[![skillz](https://skillicons.dev/icons?i=linux,ubuntu,arch)][skicons]
+[tool-known]: https://skillicons.dev/icons?i=regex,git,godot
+[tool-learn]: ./img/404.svg
+
+[edit-known]: https://skillicons.dev/icons?i=vim,neovim,vscode
+[edit-learn]: ./img/404.svg
+
+[oses-known]: https://skillicons.dev/icons?i=linux,ubuntu,arch
+[oses-learn]: ./img/404.svg
 
 <!--
 Possible other ones to list (these don't have devicons):
-- Docker
-- nginx
-- FreeRTOS
-- GDB
+- Docker, nginx
+- FreeRTOS, GDB
 -->
 ---
 
@@ -59,4 +67,4 @@ Possible other ones to list (these don't have devicons):
 </figure>
 
 <!-- Links -->
-[skicons]: https://skillicons.dev
+[skd]: https://skillicons.dev
