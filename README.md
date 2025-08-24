@@ -12,12 +12,10 @@
 ## 🏧 My Present
 ### 🗺️ The Current Situation
 - 📟️ Embedded Software Engineer
-
-### [👷‍♂️🏗️ Workshop 🚧](https://github.com/nextredo/workshop)
-- You can see whatever I'm tinkering with here ^^
+- 👷‍♂️ You can see what I'm tinkering with [🏗️ here 🚧][ws-repo]
 
 ### ❓️ Other Stuff
-Outside of computery stuff, I like to:
+📜 Outside of computery stuff, I like to:
 - 💪 Lift
 - 🚴‍♂️ Cycle
 - 🔧 Fix things
@@ -38,10 +36,9 @@ Outside of computery stuff, I like to:
 | OSes       | [![][oses-known]][skd]                           | [![][oses-learn]][skd] |
 
 <!-- Table stuff -->
-<!-- placeholders are 127.0.0.1 -->
-[lang-known]: https://skillicons.dev/icons?i=c,cpp,py,bash,lua
-[lang-know2]: https://skillicons.dev/icons?i=arduino,markdown
-[lang-learn]: https://skillicons.dev/icons?i=rust,nix
+[lang-known]: https://skillicons.dev/icons?i=c,cpp,py
+[lang-know2]: https://skillicons.dev/icons?i=bash,lua,arduino
+[lang-learn]: https://skillicons.dev/icons?i=rust
 
 [tool-known]: https://skillicons.dev/icons?i=regex,git,godot
 [tool-learn]: ./img/404.svg
@@ -50,12 +47,12 @@ Outside of computery stuff, I like to:
 [edit-learn]: ./img/404.svg
 
 [oses-known]: https://skillicons.dev/icons?i=linux,ubuntu,arch
-[oses-learn]: ./img/404.svg
-
+[oses-learn]: https://skillicons.dev/icons?i=nix
 <!--
 Possible other ones to list (these don't have devicons):
 - Docker, nginx
 - FreeRTOS, GDB
+- Markdown, TOML?
 -->
 ---
 
@@ -68,3 +65,4 @@ Possible other ones to list (these don't have devicons):
 
 <!-- Links -->
 [skd]: https://skillicons.dev
+[ws-repo]: https://github.com/nextredo/workshop
