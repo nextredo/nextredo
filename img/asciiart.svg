@@ -30,7 +30,16 @@
                     line-height: 1.23;
                     padding: 10px;
                     border-radius: 12px;
-                    background: linear-gradient(-25deg, #534D41, #00272B, #483e87);
+                    background:
+                        linear-gradient(
+                            25deg,
+                            #ffd400,
+                            #2e294e,
+                            #372549,
+                            #eadeda,
+                            #d90368,
+                            #820263
+                        );
                 }
             </style>
             <div id="asciiholder">
