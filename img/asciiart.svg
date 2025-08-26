@@ -1,9 +1,7 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
-    xml:space="preserve"
-    viewBox="0 0 650 466"
-    preserveAspectRatio="xMaxYMax slice"
-    role="img"
+    height="26em"
+    width="40em"
 >
     <foreignObject width="100%" height="100%">
         <body xmlns="http://www.w3.org/1999/xhtml">
@@ -54,12 +52,15 @@
                     background-blend-mode: overlay;
                 }
 
+                pre:first-line {
+                    line-height: 0;
+                }
+
                 pre {
                     display: inline-block;
                     font-family: monospace;
                     color: white;
                     white-space: pre;
-                    line-height: 1.23;
                     padding: 10px;
                     background:
                         /* 3rd swirlo */

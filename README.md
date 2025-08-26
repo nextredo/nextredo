@@ -1,4 +1,4 @@
-<img style="display:flex; align-items: center; justify-content: center; margin: auto; max-height: 40vh; width: auto; background-size: contain;" src="img/asciiart.svg"></img>
+![](./img/asciiart.svg)
 
 >"C makes it easy to shoot yourself in the foot;<br>
 > C++ makes it harder, but when you do it blows your whole leg off".<br>
