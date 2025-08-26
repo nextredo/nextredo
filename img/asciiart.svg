@@ -70,7 +70,6 @@
                 pre {
                     display: inline-block;
                     font-family: monospace;
-                    color: white;
                     white-space: pre;
                     padding: 10px;
                     background:

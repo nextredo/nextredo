@@ -2,7 +2,7 @@
 
 >"C makes it easy to shoot yourself in the foot;<br>
 > C++ makes it harder, but when you do it blows your whole leg off".<br>
-> Bjarne Stroustrup, circa 1986 [(attrib.)][based-strous]
+> [Bjarne Stroustrup (C++'s Creator), circa 1986][based-strous]
 
 ---
 
