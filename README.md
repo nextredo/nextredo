@@ -6,8 +6,8 @@
 
 ---
 
-# 👨‍💼 About Me
-👋 Hi, I'm Kurt. Here's a bit about me
+# 🧙‍♂️ Hi, I'm Kurt
+👋 Here's a bit about me
 
 ## 🔙 My Past
 - 🌏️ Australian
