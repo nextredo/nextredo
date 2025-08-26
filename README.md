@@ -10,22 +10,21 @@
 - 👔 In industry since 2023
 
 ## 🏧 My Present
-### 🗺️ The Current Situation
-- 📟️ Embedded Software Engineer
-- 👷‍♂️ You can see what I'm tinkering with [🏗️ here 🚧][ws-repo]
+>👷‍♂️ You can see what I'm tinkering with [🏗️ here 🚧][ws-repo]
 
-### ❓️ Other Stuff
-📜 Outside of computery stuff, I like to:
-- 💪 Lift
-- 🚴‍♂️ Cycle
-- 🔧 Fix things
+- 📟️ Embedded Software Engineer
+- 📜 Outside of computery stuff, I like to:
+  - 💪 Lift
+  - 🇩🇪 Learn German
+  - 🚴‍♂️ Cycle
+  - 🔧 Fix things
 
 ## 🔜 My Future?
-🤔 I'm really interested in:
-- 🦺 Software safety
-- 💾 Robotics & embedded dev
-- 🌌 Space-related things
-- 😁 Overusing emojis in readmes
+- 🤔 I'm really interested in:
+  - 🦺 Software safety
+  - 💾 Robotics & embedded dev
+  - 🌌 Space-related things
+  - 😁 Overusing emojis in readmes
 
 # 💻️ Technologies
 |            | 🧠 Ones I Know                                   | 🌱 Ones I'm Learning   |
