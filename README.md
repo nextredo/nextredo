@@ -1,4 +1,4 @@
-![:)](img/asciiart.svg)
+<img style="display:flex; align-items: center; justify-content: center; margin: auto; max-height: 40vh; width: auto; background-size: contain;" src="img/asciiart.svg"></img>
 
 >"C makes it easy to shoot yourself in the foot;<br>
 > C++ makes it harder, but when you do it blows your whole leg off".<br>
@@ -54,7 +54,7 @@
 [oses-known]: https://skillicons.dev/icons?i=linux,ubuntu,arch
 [oses-learn]: https://skillicons.dev/icons?i=nix
 <!--
-Possible other ones to list (these don't have devicons):
+TODO Possible other ones to list (these don't have icons):
 - Docker, nginx
 - FreeRTOS, GDB
 - Markdown, TOML?
