@@ -12,12 +12,11 @@
                     align-items: center;
                     background:
                         repeating-linear-gradient(
-                            -37deg,
-                            #ffb100ff 0%,
-                            #d17b0fff 5%,
-                            #ad7100ff 10%,
-                            #272635ff 10%,
-                            #272635ff 20%
+                            -65deg,
+                            #be8500ff 0%,
+                            #b44800ff 18%,
+                            #272635ff 18%,
+                            #272635ff 36%
                         );
                 }
 

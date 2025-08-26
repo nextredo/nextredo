@@ -1,6 +1,6 @@
 <svg
     xmlns="http://www.w3.org/2000/svg"
-    height="26em"
+    height="25em"
     width="40em"
 >
     <!-- Honestly, probably should've just done this in Inkscape or Photoshop -->
@@ -68,10 +68,11 @@
                 }
 
                 pre {
-                    display: inline-block;
+                    display: block;
                     font-family: monospace;
                     white-space: pre;
-                    padding: 10px;
+                    padding: 1em;
+                    margin: 0;
                     background:
                         /* 3rd swirlo */
                         linear-gradient(
