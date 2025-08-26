@@ -1,4 +1,9 @@
-![Ascii Art :)](img/asciiart.svg)
+![:)](img/asciiart.svg)
+
+>"C makes it easy to shoot yourself in the foot;<br>
+> C++ makes it harder, but when you do it blows your whole leg off".<br>
+> Bjarne Stroustrup, circa 1986 [(attrib.)][based-strous]
+
 ---
 
 # 👨‍💼 About Me
@@ -23,6 +28,7 @@
 - 🤔 I'm really interested in:
   - 🦺 Software safety
   - 💾 Robotics & embedded dev
+  - 🐧 Linux & FOSS
   - 🌌 Space-related things
   - 😁 Overusing emojis in readmes
 
@@ -55,13 +61,7 @@ Possible other ones to list (these don't have devicons):
 -->
 ---
 
-<figure>
-  <blockquote cite="https://www.stroustrup.com/quotes.html">
-    "C makes it easy to shoot yourself in the foot;<br> C++ makes it harder, but when you do it blows your whole leg off".<br>
-  </blockquote>
-  <figcaption>- Bjarne Stroustrup, circa 1986</figcaption>
-</figure>
-
 <!-- Links -->
 [skd]: https://skillicons.dev
 [ws-repo]: https://github.com/nextredo/workshop
+[based-strous]: https://www.stroustrup.com/quotes.html

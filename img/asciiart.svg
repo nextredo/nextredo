@@ -1,8 +1,8 @@
 <svg
-    viewBox="0 0 800 485"
-    preserveAspectRatio="xMidYMid meet"
     xmlns="http://www.w3.org/2000/svg"
     xml:space="preserve"
+    viewBox="0 0 650 466"
+    preserveAspectRatio="xMaxYMax slice"
     role="img"
 >
     <foreignObject width="100%" height="100%">
@@ -12,7 +12,6 @@
                     display: flex;
                     justify-content: center;
                     align-items: center;
-                    padding: 2px;
                 }
 
                 #credits {
@@ -62,20 +61,14 @@
                     white-space: pre;
                     line-height: 1.23;
                     padding: 10px;
-                    border-radius: 12px;
                     background:
                         /* 3rd swirlo */
                         linear-gradient(
                             -55deg,
-                            #fbf8ccff,
-                            #fde4cfff,
                             #ffcfd2ff,
                             #f1c0e8ff,
-                            #cfbaf0ff,
                             #a3c4f3ff,
-                            #90dbf4ff,
                             #8eecf5ff,
-                            #98f5e1ff,
                             #b9fbc0ff
                         )
                     ;
