@@ -18,9 +18,9 @@
                         /* City nights and night sky */
                         linear-gradient(
                             4deg,
-                            #ffd400 0%,
-                            #2e294e 29%,
-                            #372549,
+                            #ffd400ff 0%,
+                            #2e294eff 29%,
+                            #372549ff,
                             transparent
                         ),
 
@@ -28,9 +28,9 @@
                         linear-gradient(
                             28deg,
                             transparent,
-                            #372549 51%,
-                            #eadeda 58%,
-                            #d90368 71%,
+                            #372549ff 51%,
+                            #eadedaff 58%,
+                            #d90367ff 71%,
                             transparent 81%
                         ),
 
@@ -38,11 +38,10 @@
                         linear-gradient(
                             33deg,
                             transparent 34%,
-                            #372549 62%,
-                            #820263 75%,
+                            #372549ff 62%,
+                            #820262ff 75%,
                             transparent 86%
-                        )
-                    ;
+                        );
                     background-blend-mode: overlay;
                 }
 
@@ -54,8 +53,7 @@
                             transparent 64%,
                             #2e7c27ff 74%,
                             transparent 84%
-                        )
-                    ;
+                        );
                 }
 
                 #credits {
@@ -84,8 +82,7 @@
                             #a3c4f3ff,
                             #8eecf5ff,
                             #b9fbc0ff
-                        )
-                    ;
+                        );
                     background-clip: text;
                     color: transparent;
                 }
