@@ -30,6 +30,9 @@
   - Tools / software
   - Editors / IDEs
   - OSes
+- [ ] Latest blog posts
+  - <https://dev.to/kmhmubin/create-a-badass-github-profile-readmes-1a02>
+- [ ] <https://rahuldkjain.github.io/gh-profile-readme-generator/>
 
 ## Offcuts
 ### Technologies section

@@ -44,9 +44,9 @@ Check my language usage on GitHub [by searching for it here][gh-search]. Or...
 - Visit my LinkedIn
 - Just ask me `¯\_(ツ)_/¯`
 
-<!-- See GitHub Actions for the below -->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+### 📊 Metrics
+<!-- See GitHub Actions for this -->
+![GitHub Metrics](/github-metrics.svg)
 
 ### 💽 Repos
 See below ⬇️
