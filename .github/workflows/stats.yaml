@@ -15,9 +15,18 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Main stats
       # - uses: lowlighter/metrics@latest
       - uses: lowlighter/metrics@v3.34
         with:
+          filename: metrics.base.svg
           token: ${{ secrets.GH_TOKEN }}
           base: header, activity, community, repositories, metadata
-          # plugin_fortune: yes
+
+      - name: Fortune
+      - uses: lowlighter/metrics@v3.34
+        with:
+          filename: metrics.plugin.fortune.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_fortune: yes

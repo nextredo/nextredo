@@ -46,7 +46,18 @@ Check my language usage on GitHub [by searching for it here][gh-search]. Or...
 
 ### 📊 Metrics
 <!-- See GitHub Actions for this -->
-![GitHub Metrics](/github-metrics.svg)
+![GitHub Metrics](/metrics.base.svg)
+
+<details>
+  <summary>
+    Do you feel lucky, punk?
+  </summary>
+  <img src="/metrics.plugin.fortune.svg" alt="Hope so... punk">
+
+  <a href="https://en.wikipedia.org/wiki/Dirty_Harry">
+    Who you calling punk, punk?
+  </a>
+</details>
 
 ### 💽 Repos
 See below ⬇️
@@ -65,3 +76,4 @@ See below ⬇️
 
 <!-- ## External -->
 [based-strous]: https://www.stroustrup.com/quotes.html
+[misquote]: https://en.wikipedia.org/wiki/Dirty_Harry
