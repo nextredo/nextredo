@@ -50,10 +50,10 @@ Check my language usage on GitHub [by searching for it here][gh-search]. Or...
 
 <details>
   <summary>
-    Do you feel lucky, punk?
+    Feelin' lucky, punk?
   </summary>
   <img src="/metrics.plugin.fortune.svg" alt="Hope so... punk">
-
+  <br>
   <a href="https://en.wikipedia.org/wiki/Dirty_Harry">
     Who you calling punk, punk?
   </a>
