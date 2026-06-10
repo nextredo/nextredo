@@ -7,11 +7,10 @@
 
 ## 🧙‍♂️ Hi, I'm Kurt
 > [!TIP]
-> **🌐 Check out my website:** *<https://nextredo.github.io>*
+> 🌐 **Check out my website:** <https://nextredo.github.io> \
+> Or keep reading [this readme][gh-readme]...
 
-👋 Here's a bit about me \
-You can get more of an idea through these links too:
-- 📝 [This readme][gh-readme]
+👋 Here's a bit about me. You can an idea via these links too:
 - 📂 [My repos][gh-repos]
 - 👷‍♂️ [What I'm tinkering with atm][ws-repo]
 
@@ -22,21 +21,20 @@ You can get more of an idea through these links too:
 - 📟️ Embedded Software Engineer
 
 ### 🏧 My Present
-Linux Software Engineer 🐧
-
-Hobbies:
-- 🏋️‍♂️ Lift
-- 🚴‍♂️ Cycle
-- 🇩🇪 Learn German
-- 🔧 Repair & tinker
+- 🐧 Linux Software Engineer
+- Hobbies:
+  - 🏋️‍♂️ Lift
+  - 🚴‍♂️ Cycle
+  - 🇩🇪 Learn German
+  - 🔧 Repair & tinker
 
 ### 🔜 My Future?
-I'm interested in:
-- 🦺 Software safety
-- 💾 Robotics & embedded
-- 🐧 Linux & FOSS
-- 🌌 Space-related things
-- 🤡 Overusing emojis in readmes
+- I'm interested in:
+  - 🦺 Software safety
+  - 💾 Robotics & embedded
+  - 🐧 Linux & FOSS
+  - 🌌 Space-related things
+  - 🤡 Overusing emojis in readmes
 
 ### 💻️ Technologies
 Check my language usage on GitHub [by searching for it here][gh-search]. Or...
@@ -45,22 +43,23 @@ Check my language usage on GitHub [by searching for it here][gh-search]. Or...
 - Just ask me `¯\_(ツ)_/¯`
 
 ### 📊 Metrics
-<!-- See GitHub Actions for this -->
-![GitHub Metrics](/metrics.base.svg)
+<!-- See GitHub Actions for info on this section -->
+![GitHub Metrics](cicd/metrics.base.svg)
 
 <details>
   <summary>
     Feelin' lucky, punk?
   </summary>
-  <img src="/metrics.plugin.fortune.svg" alt="Hope so... punk">
-  <br>
-  <a href="https://en.wikipedia.org/wiki/Dirty_Harry">
+  <a href="https://en.wikipedia.org/wiki/Dirty_Harry#Influence">
     Who you calling punk, punk?
+  <br>
   </a>
+  <img src="cicd/metrics.plugin.fortune.svg" alt="Hope so... punk">
 </details>
 
-### 💽 Repos
-See below ⬇️
+<sub>These infographics were generated using [lowlighter/metrics][metrics-gen]</sub>
+
+### 💽 Repos (see below ⬇️)
 
 <!----------------------------------------------------------------------------->
 <!-- # Links -->
@@ -77,3 +76,4 @@ See below ⬇️
 <!-- ## External -->
 [based-strous]: https://www.stroustrup.com/quotes.html
 [misquote]: https://en.wikipedia.org/wiki/Dirty_Harry
+[metrics-gen]: https://github.com/lowlighter/metrics

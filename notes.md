@@ -33,6 +33,8 @@
 - [ ] Latest blog posts
   - <https://dev.to/kmhmubin/create-a-badass-github-profile-readmes-1a02>
 - [ ] <https://rahuldkjain.github.io/gh-profile-readme-generator/>
+- [ ] Good personal info license file
+  - <https://github.com/lowlighter/lowlighter?tab=License-1-ov-file>
 
 ## Offcuts
 ### Technologies section

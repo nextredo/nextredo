@@ -43,8 +43,8 @@ jobs:
           plugin_fortune: yes
           output_action: none
 
-        # See the link for info on the `cp` command
-        # https://github.com/lowlighter/metrics/blob/main/source/plugins/core/README.md#manual-handling
+      # See the link for info on the `cp` command
+      # https://github.com/lowlighter/metrics/blob/main/source/plugins/core/README.md#manual-handling
       - name: Publish images
         if: ${{ success() || failure() }}
         run: |
@@ -52,7 +52,7 @@ jobs:
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git pull
-          sudo mv /metrics_renders/* ./
+          sudo mv /metrics_renders/* ./cicd/
           git add --all
           git commit -m "cicd: update images"
           git push --force
