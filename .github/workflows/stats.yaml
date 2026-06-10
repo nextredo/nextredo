@@ -1,8 +1,9 @@
 name: Readme Metrics
 
 on:
-  # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  # Schedule updates Sundaily
+  # https://crontab.guru/
+  schedule: [{cron: "0 0 * * 0"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -15,18 +16,36 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Main stats
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Base metrics
       # - uses: lowlighter/metrics@latest
       - uses: lowlighter/metrics@v3.34
         with:
           filename: metrics.base.svg
           token: ${{ secrets.GH_TOKEN }}
           base: header, activity, community, repositories, metadata
+          output_action: none
 
       - name: Fortune
-      - uses: lowlighter/metrics@v3.34
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@v3.34
         with:
           filename: metrics.plugin.fortune.svg
           token: NOT_NEEDED
           base: ""
           plugin_fortune: yes
+
+      - name: Publish images
+        if: ${{ success() || failure() }}
+        run: |
+          set +e
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git pull
+          git add --all
+          git commit -m "cicd: update images"
+          git push --force
