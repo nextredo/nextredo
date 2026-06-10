@@ -1,17 +1,19 @@
 ## 🧙‍♂️ Hi, I'm Kurt
+> [!TIP] Check out my website
+> # 🌐 <https://nextredo.github.io>
+
 ![][art]
->"C makes it easy to shoot yourself in the foot; \
+> "C makes it easy to shoot yourself in the foot; \
 > C++ makes it harder, but when you do it blows your whole leg off". \
 > [Bjarne Stroustrup, The Creator of C++, circa 1986][based-strous]
 
-> [!TIP] Quickstart
-> - 📝 [This readme][gh-readme]
-> - 🌐 [My website][personal-site]
-> - 📂 [My repos][gh-repos]
-> - 👷‍♂️ [What I'm tinkering with atm][ws-repo]
 
 ### 🫀 Bio
-👋 Here's a bit about me
+👋 Here's a bit about me \
+You can get more of an idea through these links too:
+- 📝 [This readme][gh-readme]
+- 📂 [My repos][gh-repos]
+- 👷‍♂️ [What I'm tinkering with atm][ws-repo]
 
 #### 🔙 My Past
 - 🌏️ Australian
@@ -33,7 +35,7 @@
   - 💾 Robotics & embedded
   - 🐧 Linux & FOSS
   - 🌌 Space-related things
-  - 😁 Overusing emojis in readmes
+  - 🤡 Overusing emojis in readmes
 
 #### 💻️ Technologies
 - Check my language usage on GitHub [by searching for it here][gh-search]
@@ -53,8 +55,6 @@
 [gh-repos]: https://github.com/nextredo?tab=repositories
 [gh-search]: https://github.com/search?q=user%3Anextredo&type=code
 [ws-repo]: https://github.com/nextredo/workshop
-[personal-site]: https://nextredo.github.io
 
 <!-- ## External -->
-[skd]: https://skillicons.dev
 [based-strous]: https://www.stroustrup.com/quotes.html
