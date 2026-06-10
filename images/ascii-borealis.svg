@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.4 (unknown)"
-   sodipodi:docname="asciiartv2.svg"
+   sodipodi:docname="ascii-borealis.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,15 +24,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="2143.2406"
-     inkscape:cy="91.570328"
+     inkscape:zoom="0.50000001"
+     inkscape:cx="108"
+     inkscape:cy="1073"
      inkscape:window-width="1692"
      inkscape:window-height="1052"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs1">
     <linearGradient
@@ -268,6 +268,16 @@
          stdDeviation="5.401348"
          id="feGaussianBlur157" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient73"
+       id="linearGradient75"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-17.687983,70.212954)"
+       x1="41.938381"
+       y1="88.138832"
+       x2="188.34407"
+       y2="88.138832" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -448,16 +458,39 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Adwaita Mono';-inkscape-font-specification:'Adwaita Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient74);fill-opacity:1;stroke:none;stroke-width:0.165;stroke-opacity:1"
          x="24.079893"
          y="113.2376"
-         id="tspan24">Northern Lights - D. Rice</tspan><tspan
+         id="tspan25">   </tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Adwaita Mono';-inkscape-font-specification:'Adwaita Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient74);fill-opacity:1;stroke:none;stroke-width:0.165;stroke-opacity:1"
          x="24.079893"
          y="117.20635"
-         id="tspan25">https://www.asciiart.eu/space/other   </tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Adwaita Mono';-inkscape-font-specification:'Adwaita Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient74);fill-opacity:1;stroke:none;stroke-width:0.165;stroke-opacity:1"
-         x="24.079893"
-         y="121.1751"
          id="tspan23" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Adwaita Mono';-inkscape-font-specification:'Adwaita Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;display:inline;opacity:1;fill:url(#linearGradient75);fill-opacity:1;stroke:none;stroke-width:0.165;stroke-opacity:1"
+       x="24.250399"
+       y="113.67636"
+       id="text1-2"
+       inkscape:label="credits"
+       transform="translate(-0.01227455,-3.2331771e-4)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Adwaita Mono';-inkscape-font-specification:'Adwaita Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient75);fill-opacity:1;stroke:none;stroke-width:0.165;stroke-opacity:1"
+         x="24.250399"
+         y="113.67636"
+         id="tspan24-7">Northern Lights - D. Rice</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Adwaita Mono';-inkscape-font-specification:'Adwaita Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient75);fill-opacity:1;stroke:none;stroke-width:0.165;stroke-opacity:1"
+         x="24.250399"
+         y="115.44025"
+         id="tspan75">SVG by Kurt B</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Adwaita Mono';-inkscape-font-specification:'Adwaita Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient75);fill-opacity:1;stroke:none;stroke-width:0.165;stroke-opacity:1"
+         x="24.250399"
+         y="117.20414"
+         id="tspan25-0">https://www.asciiart.eu/space/other   </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Adwaita Mono';-inkscape-font-specification:'Adwaita Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient75);fill-opacity:1;stroke:none;stroke-width:0.165;stroke-opacity:1"
+         x="24.250399"
+         y="118.96803"
+         id="tspan23-9" /></text>
   </g>
 </svg>
