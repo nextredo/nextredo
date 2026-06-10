@@ -1,5 +1,9 @@
 name: Readme Metrics
 
+# NOTE:
+# Can use `@latest` tag instead
+# If I don't wish to version lock it
+
 on:
   # Schedule updates Sundaily
   # https://crontab.guru/
@@ -22,8 +26,7 @@ jobs:
           fetch-depth: 0
 
       - name: Base metrics
-      # - uses: lowlighter/metrics@latest
-      - uses: lowlighter/metrics@v3.34
+        uses: lowlighter/metrics@v3.34
         with:
           filename: metrics.base.svg
           token: ${{ secrets.GH_TOKEN }}
