@@ -9,41 +9,47 @@
 > [!TIP]
 > **🌐 Check out my website:** *<https://nextredo.github.io>*
 
-### 🫀 Bio
 👋 Here's a bit about me \
 You can get more of an idea through these links too:
 - 📝 [This readme][gh-readme]
 - 📂 [My repos][gh-repos]
 - 👷‍♂️ [What I'm tinkering with atm][ws-repo]
 
-#### 🔙 My Past
+### 🔙 My Past
 - 🌏️ Australian
 - 🤖 Mechatronics Engineering graduate
 - 👔 In industry since 2023
 - 📟️ Embedded Software Engineer
 
-#### 🏧 My Present
-- 🐧 Linux Software Engineer
-- 📜 Hobbies:
-  - 🏋️‍♂️ Lift
-  - 🚴‍♂️ Cycle
-  - 🇩🇪 Learn German
-  - 🔧 Repair & tinker
+### 🏧 My Present
+Linux Software Engineer 🐧
 
-#### 🔜 My Future?
-- 🤔 I'm interested in:
-  - 🦺 Software safety
-  - 💾 Robotics & embedded
-  - 🐧 Linux & FOSS
-  - 🌌 Space-related things
-  - 🤡 Overusing emojis in readmes
+Hobbies:
+- 🏋️‍♂️ Lift
+- 🚴‍♂️ Cycle
+- 🇩🇪 Learn German
+- 🔧 Repair & tinker
 
-#### 💻️ Technologies
-- Check my language usage on GitHub [by searching for it here][gh-search]
-- Or:
-  - Ask me for a copy of my resume
-  - Visit my LinkedIn
-  - Just ask me `¯\_(ツ)_/¯`
+### 🔜 My Future?
+I'm interested in:
+- 🦺 Software safety
+- 💾 Robotics & embedded
+- 🐧 Linux & FOSS
+- 🌌 Space-related things
+- 🤡 Overusing emojis in readmes
+
+### 💻️ Technologies
+Check my language usage on GitHub [by searching for it here][gh-search]. Or...
+- Ask me for a copy of my resume
+- Visit my LinkedIn
+- Just ask me `¯\_(ツ)_/¯`
+
+<!-- See GitHub Actions for the below -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### 💽 Repos
+See below ⬇️
 
 <!----------------------------------------------------------------------------->
 <!-- # Links -->
