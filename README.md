@@ -1,4 +1,4 @@
-![](./img/asciiart.svg)
+![][art]
 
 >"C makes it easy to shoot yourself in the foot;<br>
 > C++ makes it harder, but when you do it blows your whole leg off".<br>
@@ -66,6 +66,7 @@
 [![][edit-learn]][skd]
 [![][oses-learn]][skd]
 
+![][404]
 
 <!--
 TODO fav open src project
@@ -120,7 +121,13 @@ TODO Possible other ones to list (these don't have icons):
 -->
 ---
 
-<!-- Links -->
+<!----------------------------------------------------------------------------->
+<!-- # Links -->
+<!-- ## Internal -->
+[404]: ./images/404.svg
+[art]: ./images/ascii-borealis.svg
+
+<!-- ## External -->
 [skd]: https://skillicons.dev
 [ws-repo]: https://github.com/nextredo/workshop
 [based-strous]: https://www.stroustrup.com/quotes.html
