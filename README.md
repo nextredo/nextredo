@@ -1,22 +1,21 @@
-![][art]
+## 🧙‍♂️ Hi, I'm Kurt
+> [!TIP] Quickstart
+> - 📝 [This readme][gh-readme]
+> - 🌐 [My website][personal-site]
+> - 📂 [My repos][gh-repos]
+> - 👷‍♂️ See what I'm tinkering with [🏗️ here 🚧][ws-repo]
 
->"C makes it easy to shoot yourself in the foot;<br>
-> C++ makes it harder, but when you do it blows your whole leg off".<br>
-> [Bjarne Stroustrup (C++'s Creator), circa 1986][based-strous]
-
----
-
-# 🧙‍♂️ Hi, I'm Kurt
 👋 Here's a bit about me
 
-## 🔙 My Past
+### 🫀 Bio
+#### 🔙 My Past
 - 🌏️ Australian
 - 🤖 Mechatronics Engineering graduate
 - 👔 In industry since 2023
 
-## 🏧 My Present
->👷‍♂️ You can see what I'm tinkering with [🏗️ here 🚧][ws-repo]
+#### 🏧 My Present
 
+<!-- TODO update title -->
 - 📟️ Embedded Software Engineer
 - 📜 Outside of computery stuff, I like to:
   - 💪 Lift
@@ -24,15 +23,15 @@
   - 🚴‍♂️ Cycle
   - 🔧 Fix things
 
-## 🔜 My Future?
-- 🤔 I'm really interested in:
+#### 🔜 My Future?
+- 🤔 I'm interested in:
   - 🦺 Software safety
-  - 💾 Robotics & embedded dev
+  - 💾 Robotics & embedded
   - 🐧 Linux & FOSS
   - 🌌 Space-related things
   - 😁 Overusing emojis in readmes
 
-# 💻️ Technologies
+#### 💻️ Technologies
 <!-- TODO
 - Shields.io
 - Devicons (bad)
@@ -100,6 +99,13 @@ TODO Ideas from these readmes
   - No readme, minimalist
 -->
 
+![][art]
+> [!TIP]
+>"C makes it easy to shoot yourself in the foot;<br>
+> C++ makes it harder, but when you do it blows your whole leg off".<br>
+> [Bjarne Stroustrup, The Creator of C++, circa 1986][based-strous]
+
+
 <!-- Table stuff -->
 [lang-known]: https://skillicons.dev/icons?i=c,cpp,py,bash,lua,arduino&perline=3
 [lang-know2]: https://skillicons.dev/icons?i=bash,lua,arduino
@@ -119,7 +125,6 @@ TODO Possible other ones to list (these don't have icons):
 - FreeRTOS, GDB
 - Markdown, TOML?
 -->
----
 
 <!----------------------------------------------------------------------------->
 <!-- # Links -->
@@ -127,7 +132,12 @@ TODO Possible other ones to list (these don't have icons):
 [404]: ./images/404.svg
 [art]: ./images/ascii-borealis.svg
 
+<!-- ## Personal -->
+[gh-readme]: https://github.com/nextredo
+[gh-repos]: https://github.com/nextredo?tab=repositories
+[ws-repo]: https://github.com/nextredo/workshop
+[personal-site]: https://nextredo.github.io
+
 <!-- ## External -->
 [skd]: https://skillicons.dev
-[ws-repo]: https://github.com/nextredo/workshop
 [based-strous]: https://www.stroustrup.com/quotes.html
