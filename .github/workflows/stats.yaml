@@ -52,7 +52,9 @@ jobs:
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git pull
+          mkdir -p ./cicd/
+          ls /metrics_renders/
           sudo mv /metrics_renders/* ./cicd/
           git add --all
           git commit -m "cicd: update images"
-          git push --force
+          git push
