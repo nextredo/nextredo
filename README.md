@@ -1,12 +1,13 @@
-## 🧙‍♂️ Hi, I'm Kurt
-> [!TIP] Check out my website
-> # 🌐 <https://nextredo.github.io>
-
 ![][art]
 > "C makes it easy to shoot yourself in the foot; \
 > C++ makes it harder, but when you do it blows your whole leg off". \
 > [Bjarne Stroustrup, The Creator of C++, circa 1986][based-strous]
 
+---
+
+## 🧙‍♂️ Hi, I'm Kurt
+> [!TIP]
+> **🌐 Check out my website:** *<https://nextredo.github.io>*
 
 ### 🫀 Bio
 👋 Here's a bit about me \

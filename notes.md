@@ -16,13 +16,13 @@
   - No readme, minimalist profile
 
 ## TODOs
+- [ ] Short list & desc of my best repos?
 - [ ] GitHub stats?
   - <https://github.com/anmol098/anmol098>
     - storage used on GitHub
   - <https://github.com/minoveaz/minoveaz>
     - example using that
 - [ ] Fav / most used open src projects
-- [ ] Short list & desc of my best repos?
 - [ ] Technologies list
 - [ ] Ones I know + ones I don't for:
   - Languages
