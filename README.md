@@ -1,26 +1,31 @@
 ## 🧙‍♂️ Hi, I'm Kurt
+![][art]
+>"C makes it easy to shoot yourself in the foot; \
+> C++ makes it harder, but when you do it blows your whole leg off". \
+> [Bjarne Stroustrup, The Creator of C++, circa 1986][based-strous]
+
 > [!TIP] Quickstart
 > - 📝 [This readme][gh-readme]
 > - 🌐 [My website][personal-site]
 > - 📂 [My repos][gh-repos]
-> - 👷‍♂️ See what I'm tinkering with [🏗️ here 🚧][ws-repo]
-
-👋 Here's a bit about me
+> - 👷‍♂️ [What I'm tinkering with atm][ws-repo]
 
 ### 🫀 Bio
+👋 Here's a bit about me
+
 #### 🔙 My Past
 - 🌏️ Australian
 - 🤖 Mechatronics Engineering graduate
 - 👔 In industry since 2023
+- 📟️ Embedded Software Engineer
 
 #### 🏧 My Present
-<!-- TODO update title -->
-- 📟️ Embedded Software Engineer
-- 📜 Outside of computery stuff, I like to:
+- 🐧 Linux Software Engineer
+- 📜 Hobbies:
   - 🏋️‍♂️ Lift
   - 🚴‍♂️ Cycle
   - 🇩🇪 Learn German
-  - 🔧 Fix things
+  - 🔧 Repair & tinker
 
 #### 🔜 My Future?
 - 🤔 I'm interested in:
@@ -31,66 +36,11 @@
   - 😁 Overusing emojis in readmes
 
 #### 💻️ Technologies
-> [!TIP]
-> Check my language usage on GitHub [by searching for it here][gh-search]
-
-<!-- Credit to https://github.com/piuswalter for the idea -->
-##### 🧠 Ones I Know
-- Languages
-- Frameworks / libs
-- Tools / software
-- Editors / IDEs
-- OSes
-
-
-##### 🌱 Ones I'm Learning
-![][bash]
-
-##### 🕸 Ones I'm Hosting
-
-<!--
-TODO Use something other than the current skill icons
-- Since not all icons are available
-- Candidates include:
-  - shields.io
-    - ![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
-  - TODO research others
-
-TODO Ideas from these readmes
-  - https://github.com/minoveaz/minoveaz
-- https://github.com/folke/trouble.nvim
-- https://github.com/neovim/neovim.github.io?tab=readme-ov-file
-  - Cool reference to a line of code in the readme
-- https://github.com/meauxt
-  - Good list of stuff to self host
-  - Good devicons at the bottom
-- https://github.com/nextcloud/all-in-one/blob/main/readme.md
-  - Tip and important and etc. quote blocks
-  - Just GitHub flavoured Markdown I guess
-- https://github.com/adityatelange
-  - Good list format
-- https://github.com/hpjansson
-  - No readme, minimalist
--->
-
-<!--
-TODO
-- GitHub stats?
-  - https://github.com/anmol098/anmol098
-  - storage used on GitHub
-- fav open src project
-- short list & desc of my best repos?
--->
-
-![][art]
-> [!TIP]
->"C makes it easy to shoot yourself in the foot;<br>
-> C++ makes it harder, but when you do it blows your whole leg off".<br>
-> [Bjarne Stroustrup, The Creator of C++, circa 1986][based-strous]
-
-
-
-![][404]
+- Check my language usage on GitHub [by searching for it here][gh-search]
+- Or:
+  - Ask me for a copy of my resume
+  - Visit my LinkedIn
+  - Just ask me `¯\_(ツ)_/¯`
 
 <!----------------------------------------------------------------------------->
 <!-- # Links -->
@@ -108,60 +58,3 @@ TODO
 <!-- ## External -->
 [skd]: https://skillicons.dev
 [based-strous]: https://www.stroustrup.com/quotes.html
-
-<!-- ### Icons -->
-<!-- #### Languages -->
-<!-- ##### Know -->
-[c]:
-[cpp]:
-[py]:
-[bash]:
-[lua]:
-[arduino]:
-[bash]: https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge
-[toml]:
-[markdown]:
-
-<!-- ##### Learning -->
-[rust]:
-
-<!-- #### Frameworks -->
-<!-- ##### Know -->
-[git]:
-[regex]:
-[godot]:
-
-<!-- ##### Learning -->
-
-
-<!-- #### Tools -->
-[docker]:
-
-<!-- ##### Know -->
-
-<!-- ##### Learning -->
-
-
-<!-- #### Editors -->
-<!-- ##### Know -->
-[vim]:
-[neovim]:
-[vscode]:
-
-<!-- ##### Learning -->
-
-
-<!-- #### OSes -->
-<!-- ##### Know -->
-[linux]:
-[ubuntu]:
-[arch]:
-[rocky-linux]:
-[opensuse]:
-
-<!-- ##### Learning -->
-
-<!-- #### Hosting -->
-[nextcloud]:
-[pihole]:
-[immich]:
