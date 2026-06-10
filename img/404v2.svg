@@ -24,15 +24,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="3.6845778"
-     inkscape:cx="159.44839"
-     inkscape:cy="79.656346"
+     inkscape:zoom="1.8422889"
+     inkscape:cx="162.56951"
+     inkscape:cy="75.178221"
      inkscape:window-width="1692"
      inkscape:window-height="1052"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1"
+     inkscape:current-layer="layer1"
      inkscape:clip-to-page="false" />
   <defs
      id="defs1">
@@ -683,6 +683,44 @@
          x="-12.34914"
          y="-2.2150123"
          inkscape:label="border" />
+      <text
+         xml:space="preserve"
+         style="display:none;font-size:3.175px;font-family:'Latin Modern Mono Caps';-inkscape-font-specification:'Latin Modern Mono Caps, Normal';writing-mode:lr-tb;direction:ltr;opacity:0.74358;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.165"
+         x="1.8670161"
+         y="5.0265822"
+         id="text4"
+         transform="matrix(0.50000001,0,0,0.50000001,-12.679145,-2.5450163)"
+         inkscape:label="notes"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           style="fill:#ffffff;stroke-width:0.165"
+           x="1.8670161"
+           y="5.0265822">Inkscape doesn't let you;</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#ffffff;stroke-width:0.165"
+           x="1.8670161"
+           y="8.9953318"
+           id="tspan5">- Turn Pattern fills into paths</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#ffffff;stroke-width:0.165"
+           x="1.8670161"
+           y="12.964082"
+           id="tspan6">- Combine gradients on pattern fills</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#ffffff;stroke-width:0.165"
+           x="1.8670161"
+           y="16.932833"
+           id="tspan7">- And can do masking, but other SVG viewers can't</tspan><tspan
+           sodipodi:role="line"
+           style="fill:#ffffff;stroke-width:0.165"
+           x="1.8670161"
+           y="20.901583"
+           id="tspan8" /><tspan
+           sodipodi:role="line"
+           style="fill:#ffffff;stroke-width:0.165"
+           x="1.8670161"
+           y="24.870333"
+           id="tspan9">So that's why there's no masking done here</tspan></text>
     </g>
     <g
        id="layer2-1"
